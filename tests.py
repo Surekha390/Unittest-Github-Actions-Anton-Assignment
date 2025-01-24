@@ -1,7 +1,7 @@
 import unittest
 import calculator 
 # Define a class that inherits from unittest.TestCase
-class TestAddNumbers(unittest.TestCase):
+class TestCalculatorFunctions(unittest.TestCase):
 
     # Define a test method
     def test_add_numbers(self):
