@@ -16,5 +16,5 @@ class TestCalculatorFunctions(unittest.TestCase):
     def test_subtraction(self):
         self.assertEqual(calculator.subtraction(8, 2), 6)
 
-if __name__ == "__main__":
-    unittest.main() 
+# if __name__ == "__main__":
+#     unittest.main() 
