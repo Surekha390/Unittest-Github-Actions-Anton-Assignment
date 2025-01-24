@@ -13,6 +13,6 @@ class TestAddNumbers(unittest.TestCase):
     def test_div_numbers(self):
         self.assertEqual(calculator.div_numbers(10, 5), 2)
 
-    def subtraction(self):
-        self.asserEqual(calculator.subtraction(8, 2), 6)
+    def test_subtraction(self):
+        self.assertEqual(calculator.subtraction(8, 2), 6)
 
