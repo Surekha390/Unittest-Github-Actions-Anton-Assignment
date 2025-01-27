@@ -9,5 +9,5 @@ def div_numbers(a, b):
         raise ValueError("Cannot divide by zero")
     return a / b
 
-def subtraction(d, e):
-    return d + e
+def subtraction(d, e)
+    return d - e
