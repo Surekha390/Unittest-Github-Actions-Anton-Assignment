@@ -8,3 +8,5 @@ Then Github actions uses this requirements.txt to install them in the virtual se
 But i am facing errors with installing depenencies. It means i have issues with either my yaml file or requiremnts file, because unittest is working, when i run the program in cmd/terminal 
 with: 
 python3 tests.py
+
+It is working.
