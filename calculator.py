@@ -10,4 +10,4 @@ def div_numbers(a, b):
     return a / b
 
 def subtraction(d, e):
-    return d - e
+    return d + e
